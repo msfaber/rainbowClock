@@ -22,4 +22,5 @@ Useful Websites Used to Build This:
 - http://docs.pimoroni.com/rainbowhat/
 - https://pinout.xyz/pinout/rainbow_hat#
 - https://forums.pimoroni.com/t/bme680-and-rainbowhat/8582/3
+- https://docs.python.org/2/library/time.html
 

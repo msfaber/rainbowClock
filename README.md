@@ -19,4 +19,5 @@ Uncertainties:
 
 Useful Websites Used to Build This:
 - https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-rainbow-hat-in-python
+- http://docs.pimoroni.com/rainbowhat/
 - https://pinout.xyz/pinout/rainbow_hat#

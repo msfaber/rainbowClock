@@ -16,3 +16,7 @@ Perks:
 
 Uncertainties:
 - RainbowHAT buzzer for alarm? or connect to another speaker?
+
+Useful Websites Used to Build This:
+- https://learn.pimoroni.com/tutorial/sandyj/getting-started-with-rainbow-hat-in-python
+- https://pinout.xyz/pinout/rainbow_hat#
